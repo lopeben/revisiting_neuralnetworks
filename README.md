@@ -1,2 +1,2 @@
-# revisiting_neuralnetworks
+# revisiting_neuron
 this time with python
